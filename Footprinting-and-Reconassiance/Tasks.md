@@ -8,8 +8,8 @@ Passing & Active Footprinting
     - Gather information from video search engines
     - Gather information from FTP search engines
     - Gather information from IoT search engines
-    - Perform footprinting through web services
-2. Find the company’s domains and sub-domains using Netcraft
+2. Perform footprinting through web services
+    - Find the company’s domains and sub-domains using Netcraft
     - Gather personal information using PeekYou online people search service
     - Gather an email list using theHarvester
     - Gather information using deep and dark web searching
